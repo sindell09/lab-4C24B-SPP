@@ -1,1 +1,1 @@
-#El proyecto de Sindell Perez
+#Este proyecto en un clone del anterior
